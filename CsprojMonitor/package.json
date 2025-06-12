@@ -1,0 +1,27 @@
+{
+  "name": "com.codejunkie.csproj-monitor",
+  "version": "1.0.0",
+  "displayName": "Csproj Monitor",
+  "description": "Unity Editor extension for seamless .NET project monitoring and building with dotnet watch integration. Auto-rebuild external C# projects, intelligent project type detection, and comprehensive logging support.",
+  "unity": "2019.4",
+  "unityRelease": "0f1",
+  "keywords": [
+    "csproj",
+    "dotnet",
+    "watch",
+    "build",
+    "monitor",
+    "editor",
+    "tool",
+    "development",
+    "external",
+    "project"
+  ],
+  "author": {
+    "name": "Code Junkie"
+  },
+  "type": "tool",
+  "hideInEditor": false,
+  "category": "Unity Editor Extensions",
+  "dependencies": {}
+}
